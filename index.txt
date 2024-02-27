@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hi Hi best buddy</title>
+
+</head>
+
+<body>
+    <h1>K-pop Quote for Your Life</h1>
+    <h2>:Lisa Lalisa</h2>
+    <image src="image/p5.jpg" width="250" height="300"></image>
+    <p>If you dream that you really want to be  I think that if you keep fighting and don't give up, you can do it.'</p><br>
+    <p>ถ้าคุณฝันว่าคุณอยากจะเป็นจริงๆ เราก็คิดว่าถ้าคุณสู้ต่อไป ไม่ท้อถอย ยังไงคุณก็ทำได้ค่ะ' - ลิซ่า จากรายการ Youth With You</p>
+    <a href="https://youtu.be/awkkyBH2zEo?si=P_K9PqA7psEkCi2h">-LALISA-</a>
+<br>
+<br>
+    <h3>:Yoongi BTS</h3>
+    <image src="image/p4.jpg" width="250" height="300"></image>
+    <P>You don't have to have a dream.  Just being happy is enough."</P><br>
+    <p>ไม่ต้องมีความฝันก็ได้ แค่มีความสุขก็พอครับ" - ยุนกิ BTS</P>
+    <a href="https://youtu.be/xEeFrLSkMm8?si=dXWQx-5eB20nNpNw">-Spring Day-</a>
+<br>
+<br>
+    <h4>:DAY6 JAE</h4>
+    <image src="image/p3.jpg" width="250" height="300"></image>
+    <p>"Be weird. Being normal doesn't get you far in life. Be who you are and only who you are. Don't let nobody shape you into something else."</p><br>
+    <p>"ทำตัวแปลกๆไปเลย การเป็นคนธรรมดาไม่ได้ช่วยให้คุณมีชีวิตได้ไกล เป็นตัวของตัวเองและเป็นตัวของตัวเองเท่านั้น อย่าปล่อยให้ใครมากำหนดคุณเป็นอย่างอื่น"  - DAY6 เจ
+    </p>
+    <a href="https://youtu.be/EwLMA5XYnKI?si=j7LXnq525Pkwjf3D">-I Love You-</a>
+<br>    
+<br>
+    <h5>:DAY6 YOUNGK</h5>
+    <image src="image/p2.jpg" width="250" height="300"></image>
+    <p>“Imperfection is the perfection of human beings.” </p><br>
+    <p>แค่วินาทีที่คุณเกิดมา คุณก็มีค่าสำหรับใครบางคนแล้ว-  Day6 ยองเค</p>
+    <a href="https://youtu.be/BS7tz2rAOSA?si=Xk7LBNGFn2cgDpL7">-You Were Beautiful-</a>
+    <br>   
+
+    <br> 
+    <h6>:Jinyoung (GOT7)</h6>
+    <image src="image/p1.jpg" width="250" height="300"></image>
+    <p>“Don't hesitate in front of choices and worries.  Everyone is with you.  So don't worry.  Just look straight ahead as you keep walking.”</p><br>
+    <p>“อย่าลังเลต่อหน้าทางเลือกและความกังวล ทุกคนอยู่กับคุณเสมอ ดังนั้นไม่ต้องกังวล แค่มองตรงไปข้างหน้าในขณะที่คุณเดินต่อไป” -จินยอง</p> 
+    <a href="https://youtu.be/WNbRq-qco58?si=z0xQ4VbOAGt5Z0vC">-Thank You-</a>
+
+ <br>
+ <br>
+
+</body>
+</html>
+
